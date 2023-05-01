@@ -64,8 +64,8 @@ global.openAiapi = 'PASTE_YOUR_API_HERE'   // Get you Api-key from 'https://plat
 global.org = 'PASTE_YOUR_ORG_HERE'   // Get you Org-Key from 'https://platform.openai.com/account/org-settings' 
 
 /*============== STAFF ==============*/
-global.owner = [
-  ['923470027813', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //Replace your number with your name
+global.owner = [Bamireid
+  ['Bamireid', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -110,8 +110,8 @@ global.footerTXT = `ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪ�
 global.fig = `Follow me on instagram:\n\t\tinstagram.com/itx_ahmad.ali`
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
-global.titlebot = '🎋 ┊ ɪᴋʀᴀᴛᴏs ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
-global.author = global.wm
+global.titlebot = 'wifey🌝'
+global.author = Bamireid.wm
 global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
 
 
