@@ -55,7 +55,7 @@ global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada 
 /*============== NOMOR ==============*/
 global.nomorbot = '94740952096' //Nomor Bot
 global.nomorown = '94740952096' //Nomor Owner
-global.namebot = 'chamuwa-MD-v1' //Nama Bot
+global.namebot = 'sharon' //Nama Bot
 global.nameown = 's chamudith' // Nama Owner
 
 
@@ -110,7 +110,7 @@ global.footerTXT = `ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪ�
 global.fig = `Follow me on instagram:\n\t\tinstagram.com/itx_ahmad.ali`
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
-global.titlebot = 'wifey🌝'
+global.titlebot = 'sharon'
 global.author = global.wm
 global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
 
