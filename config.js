@@ -64,12 +64,12 @@ global.openAiapi = 'PASTE_YOUR_API_HERE'   // Get you Api-key from 'https://plat
 global.org = 'PASTE_YOUR_ORG_HERE'   // Get you Org-Key from 'https://platform.openai.com/account/org-settings' 
 
 /*============== STAFF ==============*/
-global.owner = [Bamireid
+global.owner = [
   ['Bamireid', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['923470027813','68673045381','923191089077'] // Premium user is not here to add it, type .addprem @ user 10
+global.prems = ['08119715215','68673045381','923191089077'] // Premium user is not here to add it, type .addprem @ user 10
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.lolkeysapi = ['BrunoSobrino']
@@ -111,7 +111,7 @@ global.fig = `Follow me on instagram:\n\t\tinstagram.com/itx_ahmad.ali`
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
 global.titlebot = 'wifey🌝'
-global.author = Bamireid.wm
+global.author = global.wm
 global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
 
 
